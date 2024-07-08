@@ -32,3 +32,9 @@ a:link {
 a:visited {
     color: #797270;
 }
+img {
+    border-radius: 20px;
+    object-fit: cover;
+    width: 33%;
+    height: 80%;
+}
